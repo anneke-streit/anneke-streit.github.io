@@ -1,26 +1,26 @@
 #-------------------------------
 # General Site Settings
-title: Annekereist
+title: Hallo
 logo: logo.jpg # You can add own logo.
-description: Annekes Reiseblog
+description: Die in Hersfeld ist fuer jeden offen und dient zur Vernetzung, zum Teilen und engagierte Menschen.
+
 
 #-------------------------------
 # Author Settings
-author: AnnekeStreit
-  name: Annekeseiseblog
+author:
+  name: Die Projektwerkstatt-Freiraum
   image: 01.jpg
-  say-hello: Hey, willkommen zu meinem Reiseblog!
-  bio: Hier findet ihr Erzählungen von meinen Erlebnissen beim Work & Travel in Südfrankreich.
+  say-hello: Hey, wir sind die <strong>Projektwerkstatt und der Freiraum</strong> in Bad Hersfeld
+  bio: Man kann sich hier vernetzen, seine Sachen, die man nicht mehr braucht, die aber noch andere benutzen koennnen, abgeben und von Zeit zu Zeit gibt es auch verschiedene Veranstaltungen zum informieren und/oder vernetzen.
 
 
 #-------------------------------
 # Contact links
 #twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
+facebook: https://facebook.com/freiraumbadhersfeld/ # Add your Facebook handle
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/schwammaccount/ # Add your Instagram handle
+instagram: https://instagram.com/projektwerkstatt.freiraum/ # Add your Instagram handle
 #pinterest: https://pinterest.com/ # Add your Pinterest handle
-
 
 #-------------------------------
 # Comment Section (Disqus)
