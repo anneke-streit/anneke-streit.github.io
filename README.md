@@ -1,44 +1,31 @@
-## oeoeoeoeeoe
+Hallo, hier ist das Repository fuer die Seite des Freiraums in Bad Hersfeld. 
+Die Website findet ihr <a href="https://fernandadam.github.io/"> hier</a>.
 
-# Mein erter Eintrag
+<img src="/images/markdown.svg" width=40> Markdown Informationen <img src="/images/markdown.svg" width=40>                    
+=====                                                  
+                                                       
+Markdown ist eine Auszeichnungssprache, um leicht gute Websites zu gestalten. Der Vorteil davon ist    , dass man den Ausgangstext sehr leicht lesen kann.
 
-Hallo, ich bin heute abgereist. Freue mich auf den Hof!
+Eine gute Uebersicht, wie man Ueberschriften, Stichpunkte und anderes macht, gibt es auf [GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-
-## Github Pages
-
-You can use the [editor on GitHub](https://github.com/anneke-streit/streit-anneke.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anneke-streit/streit-anneke.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Wie laedt man ein Post hoch?
+- Ihr braucht einen Account auf GitHub
+- Ihr braucht den Zugang zu dem Repository(das sind die hier abgespeicherten Dateien)
+- *Dateinamen sollten keine Leerzeichen beinhalten!*
+- *Tags werden auf der Website ganz angezeigt.*
+0. Als Erstes wuerde ich das Bild hochladen, indem man auf den Ordner `images` geht, dann auf den Button `add file`, `upload file` drueckt. Wenn ihr das Bild geladen habt, muesst ihr nur noch auf `commit changes` druecken.
+1. Geht auf das Verzeichnis `_posts`.
+2. Erstellt eine neue Datei, indem ihr auf `add file` und dann auf `create new file` drueckt. 
+3. Den Namen kann man ueber dem Textfeld veraendern.
+4. Fuegt oder schreibt diesen Text hinein:
+> <p>--- <br>
+> layout: post <br>
+> title: "X"<br>
+> date: 2020-X-X X:00:00 +0200<br>
+> image: X.jpg<br>
+> tag: X<br>
+> ---<br>
+> X</p>
+5. Die "X" jeweils ersetzen mit den zugehoerigen Eigenschaften. 
+6. Das letzte X muss mit dem eigentlichen Post(Text) ersetzt werden.
+6. Um den Post hochzuladen, muesst ihr nur noch auf `commit changes` druecken.
