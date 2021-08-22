@@ -6,7 +6,7 @@ description: Annekes Reiseblog
 
 #-------------------------------
 # Author Settings
-author: Anneke Streit
+author:
   name: Annekes Reiseblog
   image: 01.jpg
   say-hello: Hey, willkommen zu meinem <strong>Reiseblog</strong>!
