@@ -1,0 +1,40 @@
+#-------------------------------
+# General Site Settings
+title: Projektwerkstatt
+logo: logo.jpg # You can add own logo.
+description: Die Projektwerkstatt in Hersfeld ist fuer jeden offen und dient zur Vernetzung, zum Teilen und engagierte Menschen.
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Die Projektwerkstatt-Freiraum
+  image: 01.jpg
+  say-hello: Hey, wir sind die <strong>Projektwerkstatt und der Freiraum</strong> in Bad Hersfeld
+  bio: Man kann sich hier vernetzen, seine Sachen, die man nicht mehr braucht, die aber noch andere benutzen koennnen, abgeben und von Zeit zu Zeit gibt es auch verschiedene Veranstaltungen zum informieren und/oder vernetzen.
+
+
+#-------------------------------
+# Contact links
+#twitter: https://twitter.com/ # Add your Twitter handle
+facebook: https://facebook.com/freiraumbadhersfeld/ # Add your Facebook handle
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/projektwerkstatt.freiraum/ # Add your Instagram handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+#disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: projektwerkstatt.freiraum # Add instagram username
+
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
