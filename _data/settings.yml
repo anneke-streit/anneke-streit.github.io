@@ -1,17 +1,16 @@
 #-------------------------------
 # General Site Settings
-title: Projektwerkstatt
+title: Anneke reist
 logo: logo.jpg # You can add own logo.
-description: Die Projektwerkstatt in Hersfeld ist fuer jeden offen und dient zur Vernetzung, zum Teilen und engagierte Menschen.
-
+description: Annekes Reiseblog
 
 #-------------------------------
 # Author Settings
-author:
-  name: Die Projektwerkstatt-Freiraum
+author: Anneke Streit
+  name: Annekes Reiseblog
   image: 01.jpg
-  say-hello: Hey, wir sind die <strong>Projektwerkstatt und der Freiraum</strong> in Bad Hersfeld
-  bio: Man kann sich hier vernetzen, seine Sachen, die man nicht mehr braucht, die aber noch andere benutzen koennnen, abgeben und von Zeit zu Zeit gibt es auch verschiedene Veranstaltungen zum informieren und/oder vernetzen.
+  say-hello: Hey, willkommen zu meinem <strong>Reiseblog</strong>!
+  bio: Hier findet ihr Erzählungen von meinen Erlebnissen beim Work & Travel in Südfrankreich.
 
 
 #-------------------------------
