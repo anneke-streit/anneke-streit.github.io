@@ -6,17 +6,17 @@ description: Annekes Reiseblog
 
 #-------------------------------
 # Author Settings
-author: Anneke Streit
-  name: Annekes Reiseblog
+author: AnnekeStreit
+  name: Annekeseiseblog
   image: 01.jpg
-  say-hello: Hey, willkommen zu meinem <strong>Reiseblog</strong>!
+  say-hello: Hey, willkommen zu meinem Reiseblog!
   bio: Hier findet ihr Erzählungen von meinen Erlebnissen beim Work & Travel in Südfrankreich.
 
 
 #-------------------------------
 # Contact links
 #twitter: https://twitter.com/ # Add your Twitter handle
-#facebook: https://facebook.com/ # Add your Facebook handle
+facebook: https://facebook.com/ # Add your Facebook handle
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
 instagram: https://instagram.com/schwammaccount/ # Add your Instagram handle
 #pinterest: https://pinterest.com/ # Add your Pinterest handle
