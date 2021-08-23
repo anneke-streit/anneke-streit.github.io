@@ -76,12 +76,12 @@
         display: inline-block;
         padding: 10px 50px;
         font-size: 24px;
-        font-weight: 500;
+        font-weight: 600;
         letter-spacing: 1px;
         text-transform: uppercase;
         color: $dark;
         &:hover {
-          color: $green;
+          color: $blue;
         }
       }
     }
