@@ -1,3 +1,7 @@
+.content {
+    background: $lightgreen
+}
+
 .post-title-box {
   padding: 80px 0;
   border-top: 1px solid $light-gray;
@@ -47,6 +51,7 @@
      position: relative;
      padding-left: 15px;
      font-weight: 700;
+     color: $blue;
      &:before {
        content: "";
        position: absolute;
