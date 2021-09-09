@@ -1,15 +1,9 @@
 ---
 layout: post
-title: "Bald geht's los!"
+title: "Zwischen Unkraut, Ernte und ganz viel Geschrei"
 date: 2021-08-23 11:30:00 +0200
-image: 
+image: Weidenhof.jpg
 tag: Unterwegs
 ---
-## Hallo :D
+## Zwischen Unkraut, Ernte und ganz viel Geschrei
 
-Ich beginne hier eine Website über mein Work&Travel in Frankreich.
-
-Hier könnt ihr (hoffentlich) vieles von meiner Reise mitbekommen. Ab Montag, 30. August, bin ich auf dem ersten Hof, dem **Weidenhof** in der Nähe von Stade. Mal sehen, wann dann mein erster Eintrag kommt.
-Viel Spaß!
-
-*Am besten, du speicherst dir den Link zu dieser Website, damit
