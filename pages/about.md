@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
- # Hallo :D
+# Hallo :D
 
 Ich beginne hier eine Website über mein Work&Travel in Frankreich.
 Hier kannst du (hoffentlich) vieles von meiner Reise mitbekommen. 
