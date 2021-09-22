@@ -2,7 +2,7 @@
 layout: post
 title: "Man sieht nur mit dem Herzen gut."
 date: 2021-09-22 13:14:00 +0200
-image: Pelle.jpg
+image: Schaf_Pelle.jpg
 tag: Unterwegs
 ---
 ## Man sieht nur mit dem Herzen gut. Das wesentliche ist für die Augen unsichtbar.
