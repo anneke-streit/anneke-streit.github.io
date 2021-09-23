@@ -10,7 +10,7 @@ tag: Unterwegs
 Ich möchte euch Pelle vorstellen.
 
 Pelle heißt das Schaf hier auf dem Weidenhof, das ihr auf dem Foto sehen könnt. 
-Normalerweise hat Pelle Gesellschaft von Lieschen und Reika. Diese beiden Schafe sind momentan allerdings auf einer gepachteten Weide circa fünf Autominuten von hier.
+Normalerweise hat Pelle Gesellschaft von Lieschen und Raika. Diese beiden Schafe sind momentan allerdings auf einer gepachteten Weide circa fünf Autominuten von hier.
 
 Pelle kann nicht mit ihnen dort sein und das saftige Gras genießen, weil er durch eine weiter zurückliegende Infektion an den Augen erblindet ist.
 Wenn man ihn hier auf seiner Wiese ruft, um ihn zu füttern, versteht er den Klang seines Namens und kommt in die Richtung gelaufen, aus der er zum Beispiel mich hört. Dabei läuft er manchmal versehentlich gegen den Draht-Weidezaun oder seinen Stall.
