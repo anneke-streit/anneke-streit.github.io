@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "von natürlichen Kreisläufen"
+title: "Perma-Kultur"
 date: 2021-11-21 14:12:00 +0200
 image: Schafe vor dem Horizont.jpg
 tag: Unterwegs
 ---
-## Perma-Kultur
+## von natürlichen Kreisläufen
 
 Ich stand eben vor der Frage:
 Wie soll man das in Wochen gelernte in einem kurzen Text verständlich zusammenfassen, wobei man offensichtlich viele kleine Teilelemente weglassen muss und die Komplexität und die Zulammenhänge des Systems gar nicht ersichtlich werden können; 
