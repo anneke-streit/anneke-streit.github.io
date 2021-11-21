@@ -2,7 +2,7 @@
 layout: post
 title: "Perma-Kultur"
 date: 2021-11-21 14:12:00 +0200
-image: Schafe vor dem Horizont.jpg
+image: Schafe_vor_dem_Horizont.jpg
 tag: Unterwegs
 ---
 ## von natürlichen Kreisläufen
